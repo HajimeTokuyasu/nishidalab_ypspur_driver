@@ -9,6 +9,6 @@
   </node>
 
   <!-- nishidalab_ypspur_odom_publisher -->
-  <node pkg="joy_twist" type="nishidalab_ypspur_odom_publisher_node" name="nishidalab_ypspur_odom_publisher" />
+  <node pkg="nishidalab_ypspur_driver" type="nishidalab_ypspur_odom_publisher_node" name="nishidalab_ypspur_odom_publisher" />
 
 </launch>
