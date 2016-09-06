@@ -16,7 +16,7 @@ git clone https://github.com/RyodoTanaka/nishidalab_ypspur_driver.git
 
 ```bash
 cd <catkin_ws>/src
-git clone https://github.com/RyodoTanakanishidalab_ypspur_joy_controler.git
+git clone https://github.com/RyodoTanaka/nishidalab_ypspur_joy_controler.git
 ```
 
 ###Usage
